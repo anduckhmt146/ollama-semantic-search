@@ -14,6 +14,10 @@ This project implements a semantic search API for product-related data using:
 - 📦 Integration with Milvus for vector similarity search
 - 🧠 Uses Ollama models locally (e.g., `mxbai-embed-large`, `llama3.2`)
 
+## System Design
+
+![](/assets/rag-system-design.png)
+
 ---
 
 ## 🧰 Tech Stack
